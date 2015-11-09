@@ -1,0 +1,196 @@
+[{
+            "key": "Season 2015-16",
+            "values": [
+                {
+                    "label" : "Cristiano Ronaldo" ,
+                    "value" : 8
+                } ,
+                {
+                    "label" : "Lionel Messi" ,
+                    "value" : 3
+                } ,
+                {
+                    "label" : "Luis Suarez" ,
+                    "value" : 8
+                } ,
+                {
+                    "label" : "Zlatan Ibrahimovic" ,
+                    "value" : 7
+                } ,
+                {
+                    "label" : "Sergio Aguero" ,
+                    "value" : 6
+                } ,
+                {
+                    "label" : "Robert Lewandowski" ,
+                    "value" : 14
+                } ,
+                {
+                    "label" : "Neymar" ,
+                    "value" : 9
+                } ,
+                {
+                    "label" : "Gareth Bale" ,
+                    "value" : 0
+                } ,
+                {
+                    "label" : "Thomas Muller" ,
+                    "value" : 11
+                } ,
+                {
+                    "label" : "Edinson Cavani" ,
+                    "value" : 7
+                } ,
+                {
+                    "label" : "Diego Costa" ,
+                    "value" : 1
+                }
+            ]
+        },
+        {
+            "key": "Season 2014-15",
+            "values": [
+                {
+                    "label" : "Cristiano Ronaldo" ,
+                    "value" : 48
+                } ,
+                {
+                    "label" : "Lionel Messi" ,
+                    "value" : 43
+                } ,
+                {
+                    "label" : "Luis Suarez" ,
+                    "value" : 16
+                } ,
+                {
+                    "label" : "Zlatan Ibrahimovic" ,
+                    "value" : 18
+                } ,
+                {
+                    "label" : "Sergio Aguero" ,
+                    "value" : 26
+                } ,
+                {
+                    "label" : "Robert Lewandowski" ,
+                    "value" : 17
+                } ,
+                {
+                    "label" : "Neymar" ,
+                    "value" : 22
+                } ,
+                {
+                    "label" : "Gareth Bale" ,
+                    "value" : 13
+                } ,
+                {
+                    "label" : "Thomas Muller" ,
+                    "value" : 13
+                } ,
+                {
+                    "label" : "Edinson Cavani" ,
+                    "value" : 19
+                } ,
+                {
+                    "label" : "Diego Costa" ,
+                    "value" : 20
+                }
+            ]
+        },
+        {
+            "key": "Season 2013-14",
+            "values": [
+                {
+                    "label" : "Cristiano Ronaldo" ,
+                    "value" : 31
+                } ,
+                {
+                    "label" : "Lionel Messi" ,
+                    "value" : 28
+                } ,
+                {
+                    "label" : "Luis Suarez" ,
+                    "value" : 31
+                } ,
+                {
+                    "label" : "Zlatan Ibrahimovic" ,
+                    "value" : 26
+                } ,
+                {
+                    "label" : "Sergio Aguero" ,
+                    "value" : 17
+                } ,
+                {
+                    "label" : "Robert Lewandowski" ,
+                    "value" : 20
+                } ,
+                {
+                    "label" : "Neymar" ,
+                    "value" : 9
+                } ,
+                {
+                    "label" : "Gareth Bale" ,
+                    "value" : 15
+                } ,
+                {
+                    "label" : "Thomas Muller" ,
+                    "value" : 13
+                } ,
+                {
+                    "label" : "Edinson Cavani" ,
+                    "value" : 17
+                } ,
+                {
+                    "label" : "Diego Costa" ,
+                    "value" : 27
+                }
+            ]
+        },
+        {
+            "key": "Season 2012-13",
+            "values": [
+                {
+                    "label" : "Cristiano Ronaldo" ,
+                    "value" : 34
+                } ,
+                {
+                    "label" : "Lionel Messi" ,
+                    "value" : 46
+                } ,
+                {
+                    "label" : "Luis Suarez" ,
+                    "value" : 23
+                } ,
+                {
+                    "label" : "Zlatan Ibrahimovic" ,
+                    "value" : 30
+                } ,
+                {
+                    "label" : "Sergio Aguero" ,
+                    "value" : 12
+                } ,
+                {
+                    "label" : "Robert Lewandowski" ,
+                    "value" : 24
+                } ,
+                {
+                    "label" : "Neymar" ,
+                    "value" : 14
+                } ,
+                {
+                    "label" : "Gareth Bale" ,
+                    "value" : 21
+                } ,
+                {
+                    "label" : "Thomas Muller" ,
+                    "value" : 13
+                } ,
+                {
+                    "label" : "Edinson Cavani" ,
+                    "value" : 29
+                } ,
+                {
+                    "label" : "Diego Costa" ,
+                    "value" : 10
+                }
+            ]
+        }]
